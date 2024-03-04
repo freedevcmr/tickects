@@ -1,0 +1,25 @@
+<?php
+
+return [
+    'settings' => 'Paramètres',
+    'account_details' => 'Détails du compte',
+    'choose_image' => 'Choisir une image',
+    'account_details_has_been_updated_successfully' => 'Les détails du compte ont été mis à jour avec succès',
+    'change_password' => 'Changer le mot de passe',
+    'save_changes' => 'Enregistrer les modifications',
+    'account_password_has_been_changed_successfully' => 'Le mot de passe du compte a été changé avec succès',
+    '2fa_authentication' => 'Authentification 2FA',
+    '2fa_top_description' => 'L\'authentification à deux facteurs (2FA) renforce la sécurité d\'accès en exigeant deux méthodes (également appelées facteurs) pour vérifier votre identité. L\'authentification à deux facteurs protège contre le phishing, l\'ingénierie sociale et les attaques par force brute de mot de passe, et sécurise vos connexions contre les attaquants exploitant des identifiants faibles ou volés.',
+    '2fa_bottom_description' => 'Pour utiliser l\'authentification à deux facteurs, vous devez installer une application compatible avec Google Authenticator. Voici quelques-unes qui sont actuellement disponibles :',
+    'google_authenticator_for_ios' => 'Google Authenticator pour iOS',
+    'google_authenticator_for_android' => 'Google Authenticator pour Android',
+    'microsoft_authenticator_for_ios' => 'Microsoft Authenticator pour iOS',
+    'microsoft_authenticator_for_android' => 'Microsoft Authenticator pour Android',
+    'enable_2fa_authentication' => 'Activer l\'authentification 2FA',
+    'enable' => 'Activer',
+    '2fa_authentication_has_been_enabled_successfully' => 'L\'authentification 2FA a été activée avec succès',
+    'disable_2fa_authentication' => 'Désactiver l\'authentification 2FA',
+    'disable' => 'Désactiver',
+    'invalid_otp_code' => 'Code OTP invalide',
+    '2fa_authentication_has_been_disabled_successfully' => 'L\'authentification 2FA a été désactivée avec succès',
+];
