@@ -2,7 +2,7 @@
 <html lang="{{ app()->getLocale() }}">
 
 <head>
-    @include('includes.head')
+    @include('includes.head') 
 </head>
 
 <body>
